@@ -1,0 +1,120 @@
+\documentclass[12pt,a4paper,oneside]{book}
+\usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
+\usepackage[spanish,mexico]{babel}
+\usepackage{graphicx}
+\graphicspath{{img/}}  % Incluir la ruta de la carpeta de imagenes
+\usepackage{graphics} %Incluir imagenes pdf
+\usepackage{xcolor}
+\definecolor{coolblack}{rgb}{0.0, 0.18, 0.39}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% Change font %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Configuración adicional
+%\renewcommand{\familydefault}{\sfdefault} % Cambiar la fuente por defecto a sans-serif
+\usepackage[T1]{fontenc}
+\usepackage{setspace}
+%\singlespacing  % Esaciado simple
+%\onehalfspacing % Espaciado 1.5
+\doublespacing
+
+%\usepackage{cmbright} % Opcional: Computer Modern Bright
+%\usepackage{lmodern} % Opcional: Latin Modern
+%\usepackage{times}    % Opcional: Times New Roman
+\usepackage{tgtermes}
+%\usepackage{helvet}   % Opcional: Arial
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{hyperref} % Carga hyperref primero
+\hypersetup{
+	colorlinks=true,
+	citecolor=coolblack, %color citas
+	linkcolor=black, %Cambiar al color de preferencia
+	filecolor=magenta,      
+	urlcolor=cyan,
+	pdftitle={Overleaf Example},
+	pdfpagemode=FullScreen,
+}
+\usepackage[
+type={CC},
+modifier={by-nc-nd},
+version={4.0},
+]{doclicense}
+\usepackage{url} 
+\urlstyle{same}
+\usepackage{hyperxmp} % Luego carga hyperxmp
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%% Chapter Configuration %%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\thechapter}{\Roman{chapter}} % Cambiar a números romanos
+\renewcommand{\theequation}{\arabic{chapter}.\arabic{equation}}
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+\renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
+\renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
+
+\usepackage{titlesec}  % Centrar capitulo
+\titleformat{\chapter}[display]
+{\normalfont\centering\large\bfseries}{\MakeUppercase{\chaptertitlename}\ \thechapter}{0pt}{}
+\titlespacing*{\chapter}{0pt}{0pt}{10pt} % Ajusta los valores según tus preferencias
+%%%%%%%%%%%%%%%%%%%%%%%%% Configuration Table of contents %%%%%%%%%%%%%%%%%
+\usepackage{tocloft}
+\usepackage{titletoc}
+\titlecontents{chapter}[1.5em]
+{\vspace{10pt}\bfseries} % Formato del título
+{\MakeUppercase{CAPÍTULO} \thecontentslabel {\titlerule*[0.7pc]{.} \contentspage} \\ } % Etiqueta (número de capítulo) Aquí se configura \\
+{} % Espacio entre la etiqueta y el título
+{\titlerule*[0.7pc]{.}\contentspage} % Rellenado y número de página
+
+\titlecontents{section}[3.8em]
+{} % Sin formato del título
+{\thecontentslabel\hspace{1em}} % Etiqueta (número de sección)
+{} % Espacio entre la etiqueta y el título
+{\titlerule*[0.7pc]{.}\contentspage} % Rellenado y número de página
+
+\renewcommand{\cftchapfont}{\normalfont\bfseries}
+\renewcommand{\cftsecnumwidth}{3em} % Ajusta el ancho del número de sección
+\renewcommand{\cftsubsecnumwidth}{3em} % Ajusta el ancho del número de subsección
+\setlength{\cftchapnumwidth}{4em} % Ajusta el espacio para el número de capítulo
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{csquotes}
+\DeclareUnicodeCharacter{0301}{\'{e}} 
+\usepackage[style=iso-authoryear]{biblatex}
+\addbibresource{lib/bibliography.bib}
+
+\usepackage{appendix}
+\usepackage{acronym}
+\usepackage{lipsum}
+\author{Juan Benito Quintana Arone}
+\title{"Tesis 2024"}
+\begin{document}
+\frontmatter
+    \input{lib/0.0.intro/0.0.carat.tex}
+    \input{lib/0.0.intro/0.1.apr_jur.tex}
+    \input{lib/0.0.intro/0.2.acknowledgment.tex}
+    \input{lib/0.0.intro/0.3.ded.tex}
+    \input{lib/0.0.intro/0.4.crea_comn.tex}
+    \tableofcontents
+    \newpage
+	\listoftables
+	\newpage
+	\listoffigures
+	\newpage
+    \input{lib/0.0.intro/0.5.sig_acronym.tex}
+
+\mainmatter     
+    \input{lib/0.0.intro/0.6.intro.tex}
+    \input{lib/0.0.intro/0.7.datos_generales.tex}
+    \input{lib/0.0.intro/0.8.resum.tex}
+    \input{lib/0.0.intro/0.9.abstract.tex}
+
+    \input{lib/1.0.chapter/plant_prob.tex}
+    \input{lib/2.0.chapter/obj_hipot.tex}
+    \input{lib/3.0.chapter/marc_teori.tex}
+    \input{lib/4.0.chapter/metodologia.tex}
+    \input{lib/5.0.chapter/admin_project.tex}
+    \input{lib/6.0.chapter/result_disc.tex}
+    \input{lib/7.0.chapter/conclu_recomen.tex} 
+    
+Un documento \ac{pdf} es comúnmente usado para compartir información en la web. Además, algunos documentos pueden ser escritos en \ac{html} para ser visualizados en navegadores web.
+\cite{Einstein1905}
+\backmatter
+    \appendix
+    \input{lib/8.0.chapter/anex.tex}
+    \printbibliography
+\end{document}

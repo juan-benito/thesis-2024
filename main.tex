@@ -12,14 +12,15 @@
 %\renewcommand{\familydefault}{\sfdefault} % Cambiar la fuente por defecto a sans-serif
 \usepackage[T1]{fontenc}
 \usepackage{setspace}
-%\singlespacing  % Esaciado simple
-%\onehalfspacing % Espaciado 1.5
-\doublespacing
+%\singlespacing  % Espaciado simple
+\onehalfspacing % Espaciado 1.5
+% \doublespacing
 
+\usepackage{newtxtext,newtxmath} % Paquete para usar Times New Roman
 %\usepackage{cmbright} % Opcional: Computer Modern Bright
 %\usepackage{lmodern} % Opcional: Latin Modern
 %\usepackage{times}    % Opcional: Times New Roman
-\usepackage{tgtermes}
+% \usepackage{tgtermes}
 %\usepackage{helvet}   % Opcional: Arial
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{hyperref} % Carga hyperref primero
@@ -30,7 +31,7 @@
 	filecolor=magenta,      
 	urlcolor=cyan,
 	pdftitle={Overleaf Example},
-	pdfpagemode=FullScreen,
+	% pdfpagemode=FullScreen,
 }
 \usepackage[
 type={CC},
@@ -40,18 +41,46 @@ version={4.0},
 \usepackage{url} 
 \urlstyle{same}
 \usepackage{hyperxmp} % Luego carga hyperxmp
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%% Chapter Configuration %%%%%%%%%%%%%%%%%%%%%%%%%%%
-\renewcommand{\thechapter}{\Roman{chapter}} % Cambiar a números romanos
-\renewcommand{\theequation}{\arabic{chapter}.\arabic{equation}}
-\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
-\renewcommand{\thetable}{\arabic{chapter}.\arabic{table}}
-\renewcommand{\thefigure}{\arabic{chapter}.\arabic{figure}}
+% Paquete para configurar títulos
+\usepackage{titlesec}
+% Paquete para configurar títulos
+\usepackage{titlesec}
 
-\usepackage{titlesec}  % Centrar capitulo
+% Configuración de numeración
+\renewcommand{\thechapter}{\Roman{chapter}}
+\renewcommand{\thesection}{\arabic{chapter}.\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
+\renewcommand{\theparagraph}{\thesubsubsection.\arabic{paragraph}}
+\renewcommand{\thesubparagraph}{\theparagraph.\arabic{subparagraph}}
+
+% Configuración de tamaños de títulos
 \titleformat{\chapter}[display]
-{\normalfont\centering\large\bfseries}{\MakeUppercase{\chaptertitlename}\ \thechapter}{0pt}{}
-\titlespacing*{\chapter}{0pt}{0pt}{10pt} % Ajusta los valores según tus preferencias
+{\normalfont\bfseries\centering}{\MakeUppercase{\chaptertitlename}\ \thechapter}{0pt}{\normalsize}
+\titleformat{\section}
+{\normalfont\bfseries}{\thesection}{1em}{\normalsize}
+\titleformat{\subsection}
+{\normalfont\bfseries}{\thesubsection}{1em}{\normalsize}
+\titleformat{\subsubsection}
+{\normalfont\bfseries}{\thesubsubsection}{1em}{\normalsize}
+\titleformat{\paragraph}
+{\normalfont\bfseries}{\theparagraph}{1em}{\normalsize}
+\titleformat{\subparagraph}
+{\normalfont\bfseries}{\thesubparagraph}{1em}{\normalsize}
+
+% Espaciado de los títulos
+\titlespacing*{\chapter}{0pt}{0pt}{20pt}
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+\titlespacing*{\subsection}{0pt}{12pt}{6pt}
+\titlespacing*{\subsubsection}{0pt}{12pt}{6pt}
+\titlespacing*{\paragraph}{0pt}{12pt}{6pt}
+\titlespacing*{\subparagraph}{0pt}{12pt}{6pt}
+
+% Configuración de numeración hasta el cuarto nivel
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+
 %%%%%%%%%%%%%%%%%%%%%%%%% Configuration Table of contents %%%%%%%%%%%%%%%%%
 \usepackage{tocloft}
 \usepackage{titletoc}
@@ -72,13 +101,22 @@ version={4.0},
 \renewcommand{\cftsubsecnumwidth}{3em} % Ajusta el ancho del número de subsección
 \setlength{\cftchapnumwidth}{4em} % Ajusta el espacio para el número de capítulo
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\cfoot{}
+\rhead{- \thepage\ de \pageref{LastPage}-}
+\chead{}
+\lhead{}
+\renewcommand{\headrulewidth}{0pt}
+
 \usepackage{csquotes}
 \DeclareUnicodeCharacter{0301}{\'{e}} 
 \usepackage[style=iso-authoryear]{biblatex}
 \addbibresource{lib/bibliography.bib}
-
 \usepackage{appendix}
 \usepackage{acronym}
+\usepackage{mdframed}
 \usepackage{lipsum}
 \author{Juan Benito Quintana Arone}
 \title{"Tesis 2024"}
@@ -86,8 +124,8 @@ version={4.0},
 \frontmatter
     \input{lib/0.0.intro/0.0.carat.tex}
     \input{lib/0.0.intro/0.1.apr_jur.tex}
-    \input{lib/0.0.intro/0.2.acknowledgment.tex}
-    \input{lib/0.0.intro/0.3.ded.tex}
+    % \input{lib/0.0.intro/0.2.acknowledgment.tex}
+    % \input{lib/0.0.intro/0.3.ded.tex}
     \input{lib/0.0.intro/0.4.crea_comn.tex}
     \tableofcontents
     \newpage
@@ -107,7 +145,7 @@ version={4.0},
     \input{lib/2.0.chapter/obj_hipot.tex}
     \input{lib/3.0.chapter/marc_teori.tex}
     \input{lib/4.0.chapter/metodologia.tex}
-    \input{lib/5.0.chapter/admin_project.tex}
+    % \input{lib/5.0.chapter/admin_project.tex}
     \input{lib/6.0.chapter/result_disc.tex}
     \input{lib/7.0.chapter/conclu_recomen.tex} 
     

@@ -334,8 +334,6 @@ INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc
 INPUT ./lib/0.0.intro/0.1.apr_jur.tex
 INPUT ./lib/0.0.intro/0.1.apr_jur.tex
 INPUT lib/0.0.intro/0.1.apr_jur.tex
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc
 INPUT ./img/0.1.pdf
 INPUT ./img/0.1.pdf
 INPUT ./img/0.1.pdf
@@ -388,6 +386,8 @@ INPUT c:/texlive/2024/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc
 INPUT c:/texlive/2024/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-nd-88x31.pdf
 INPUT c:/texlive/2024/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-nd-88x31.pdf
 INPUT c:/texlive/2024/texmf-dist/tex/latex/doclicense/images/doclicense-CC-by-nc-nd-88x31.pdf
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc
 INPUT build/main.toc
 INPUT build/main.toc
 INPUT build/main.toc
@@ -409,8 +409,6 @@ INPUT lib/0.0.intro/0.6.intro.tex
 INPUT ./lib/0.0.intro/0.7.datos_generales.tex
 INPUT ./lib/0.0.intro/0.7.datos_generales.tex
 INPUT lib/0.0.intro/0.7.datos_generales.tex
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntxth-Italic-tlf-t1.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ecth-tlf.enc
 INPUT ./lib/0.0.intro/0.8.resum.tex
 INPUT ./lib/0.0.intro/0.8.resum.tex
 INPUT lib/0.0.intro/0.8.resum.tex
@@ -435,6 +433,8 @@ INPUT lib/6.0.chapter/result_disc.tex
 INPUT ./lib/7.0.chapter/conclu_recomen.tex
 INPUT ./lib/7.0.chapter/conclu_recomen.tex
 INPUT lib/7.0.chapter/conclu_recomen.tex
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 INPUT c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 INPUT c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def

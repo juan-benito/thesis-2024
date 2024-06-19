@@ -1,27 +1,28 @@
 # Fdb version 4
-["biber build/main"] 1718820577.68588 "build/main.bcf" "build/main.bbl" "build/main" 1718823727.16038 0
-  "build/main.bcf" 1718823726 108158 6201712d06fbccb66bcfcb9eb6d55587 "pdflatex"
+["biber build/main"] 1718833130.23236 "build/main.bcf" "build/main.bbl" "build/main" 1718833189.5117 0
+  "build/main.bcf" 1718833188 108575 0dc51797029bd77163a0f89be07a128b "pdflatex"
+  "lib/bibliography.bib" 1717623910 411 42694bc99f04cf59d82a90eaeef09d34 ""
   (generated)
   "build/main.bbl"
   "build/main.blg"
   (rewritten before read)
-["pdflatex"] 1718823723.73966 "c:/Users/Juan Benito/Desktop/Propuesta_1/thesis-2024/main.tex" "build/main.pdf" "main" 1718823727.16123 0
-  "build/main.aux" 1718823726 2676 6fd3bed72dc2bcc0dc53a3863de2973a "pdflatex"
-  "build/main.bbl" 1718820582 486 ee04f40f768daeed26442158e95aba61 "biber build/main"
-  "build/main.lof" 1718823726 87 33fa5f893ce4440b88fc80db94deb70c "pdflatex"
-  "build/main.lot" 1718823726 87 33fa5f893ce4440b88fc80db94deb70c "pdflatex"
-  "build/main.out" 1718823726 2530 7105939a7f4dcc9b25c8f890ea93916b "pdflatex"
-  "build/main.run.xml" 1718823726 2463 b3abcffcb51c80cf51066d6a5d29a790 "pdflatex"
-  "build/main.toc" 1718823726 1288 6b46670b08e3545e2b042e265c101875 "pdflatex"
-  "c:/Users/Juan Benito/Desktop/Propuesta_1/thesis-2024/main.tex" 1718823415 6743 b00a2273df490a4a40c6767d37e8d6c1 ""
+["pdflatex"] 1718833185.84715 "c:/Users/Juan Benito/Desktop/Propuesta_1/thesis-2024/main.tex" "build/main.pdf" "main" 1718833189.5129 0
+  "build/main.aux" 1718833188 2888 99b5c4337435c4cb5201b3ca15fe986f "pdflatex"
+  "build/main.bbl" 1718833134 1921 27b8155339b3f5fc2cc049939266d705 "biber build/main"
+  "build/main.lof" 1718833188 207 73c94269b5894cc87e9e05ba125425bc "pdflatex"
+  "build/main.lot" 1718833188 207 73c94269b5894cc87e9e05ba125425bc "pdflatex"
+  "build/main.out" 1718833188 2530 7105939a7f4dcc9b25c8f890ea93916b "pdflatex"
+  "build/main.run.xml" 1718833188 2463 b3abcffcb51c80cf51066d6a5d29a790 "pdflatex"
+  "build/main.toc" 1718833188 1400 35f54a918b8a6d38c67065b7b1311d71 "pdflatex"
+  "c:/Users/Juan Benito/Desktop/Propuesta_1/thesis-2024/main.tex" 1718833184 6871 45c703048947263090a87f649822bca4 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc" 1715432776 3136 bbe665bd0bb471a2da1e8fd326cff9fa ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1715432776 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
-  "c:/texlive/2024/texmf-dist/fonts/enc/dvips/newtx/ntx-ecth-tlf.enc" 1715432776 2996 ee788e8a497a15f5f3d06406a0f11c73 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc" 1715435071 2457 aaabbccba4df2a7f7371410ee4e075a3 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1715431262 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1715430989 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1715430609 1288 655e228510b4c2a1abe905c368440826 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm" 1715432783 11564 696f16cb350c2e296a6df5198a20c96a ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm" 1715432783 11524 8ba2f557ba7dc63d1e9e4c8cc65c9b60 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-ot1.tfm" 1715432783 3008 ca0c83ca288d9f1c5d2fca0e8e268f10 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm" 1715432783 12276 8de6ae5fb2f9bd3a12436b80d518726e ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm" 1715432783 11580 86fb9f1fbe830bcc3e5ca9d9fb704e6b ""
@@ -34,7 +35,6 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntxsy7.tfm" 1715432783 1992 670a73c7d8c003bea90885f098740a17 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntxsyc.tfm" 1715432783 1028 2f6cbe812325cff65b38e4c0a517f4cb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntxsym.tfm" 1715432783 1560 755acbe6da75f914298c79fa8bb324fd ""
-  "c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntxth-Italic-tlf-t1.tfm" 1715432783 11420 0daa9330bcd48eda8182453ca3e6711f ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/tex-gyre/ec-qhvr.tfm" 1715435072 12084 374c5b7e91efcc10472ab8e61f66d36b ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb" 1715432784 255251 ff86dd5a515ecd222fc60cb2612549c9 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb" 1715432784 286816 c3d030d8c7fd436565d9670f5ca64aa0 ""
@@ -198,7 +198,7 @@
   "lib/4.0.chapter/metodologia.tex" 1715604334 0 d41d8cd98f00b204e9800998ecf8427e ""
   "lib/6.0.chapter/result_disc.tex" 1715604334 0 d41d8cd98f00b204e9800998ecf8427e ""
   "lib/7.0.chapter/conclu_recomen.tex" 1715604335 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "main.tex" 1718823415 6743 b00a2273df490a4a40c6767d37e8d6c1 ""
+  "main.tex" 1718833184 6871 45c703048947263090a87f649822bca4 ""
   (generated)
   "build/main.aux"
   "build/main.bcf"

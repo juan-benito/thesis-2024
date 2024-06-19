@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,oneside]{book}
+\documentclass[12pt,a4paper,twoside]{book}
 \usepackage[left=1.00in, right=1.00in, top=1.00in, bottom=1.00in]{geometry}
 \usepackage[spanish,mexico]{babel}
 \usepackage{graphicx}
@@ -6,7 +6,31 @@
 \usepackage{graphics} %Incluir imagenes pdf
 \usepackage{xcolor}
 \definecolor{coolblack}{rgb}{0.0, 0.18, 0.39}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%    Bibliography   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{csquotes}
+\DeclareUnicodeCharacter{0301}{\'{e}} 
+\usepackage[style=iso-authoryear]{biblatex}
+\addbibresource{lib/bibliography.bib}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{hyperref} % Carga hyperref primero
+\hypersetup{
+    colorlinks=true,
+    citecolor=coolblack, %color citas
+    linkcolor=black, %Cambiar al color de preferencia
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Overleaf Example},
+    % pdfpagemode=FullScreen,
+}
+\usepackage[
+type={CC},
+modifier={by-nc-nd},
+version={4.0},
+]{doclicense}
+\usepackage{url} 
+\urlstyle{same}
+\usepackage{hyperxmp} % Luego carga hyperxmp
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%% Change font %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Configuración adicional
 %\renewcommand{\familydefault}{\sfdefault} % Cambiar la fuente por defecto a sans-serif
@@ -22,28 +46,7 @@
 %\usepackage{times}    % Opcional: Times New Roman
 % \usepackage{tgtermes}
 %\usepackage{helvet}   % Opcional: Arial
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\usepackage{hyperref} % Carga hyperref primero
-\hypersetup{
-	colorlinks=true,
-	citecolor=coolblack, %color citas
-	linkcolor=black, %Cambiar al color de preferencia
-	filecolor=magenta,      
-	urlcolor=cyan,
-	pdftitle={Overleaf Example},
-	% pdfpagemode=FullScreen,
-}
-\usepackage[
-type={CC},
-modifier={by-nc-nd},
-version={4.0},
-]{doclicense}
-\usepackage{url} 
-\urlstyle{same}
-\usepackage{hyperxmp} % Luego carga hyperxmp
 %%%%%%%%%%%%%%%%%%%%%%%%% Chapter Configuration %%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Paquete para configurar títulos
-\usepackage{titlesec}
 % Paquete para configurar títulos
 \usepackage{titlesec}
 
@@ -83,6 +86,13 @@ version={4.0},
 
 %%%%%%%%%%%%%%%%%%%%%%%%% Configuration Table of contents %%%%%%%%%%%%%%%%%
 \usepackage{tocloft}
+\renewcommand{\cfttoctitlefont}{\hfill\normalsize\bfseries\MakeUppercase} % Cambia el tamaño y estilo de "Índice General"
+\renewcommand{\cftaftertoctitle}{\hfill} % Centra el título "Índice General"
+\renewcommand{\cftlottitlefont}{\hfill\normalsize\bfseries\MakeUppercase} % Cambia el tamaño y estilo de "Índice de Tablas"
+\renewcommand{\cftafterlottitle}{\hfill} % Centra el título "Índice de Tablas"
+\renewcommand{\cftloftitlefont}{\hfill\normalsize\bfseries\MakeUppercase} % Cambia el tamaño y estilo de "Índice de Figuras"
+\renewcommand{\cftafterloftitle}{\hfill} % Centra el título "Índice de Figuras"
+
 \usepackage{titletoc}
 \titlecontents{chapter}[1.5em]
 {\vspace{10pt}\bfseries} % Formato del título
@@ -104,22 +114,23 @@ version={4.0},
 \usepackage{lastpage}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\cfoot{}
-\rhead{- \thepage\ de \pageref{LastPage}-}
-\chead{}
-\lhead{}
-\renewcommand{\headrulewidth}{0pt}
+\fancyhf{} % Limpia todos los encabezados y pies de página
+\fancyhead[R]{- \thepage\ de \pageref{LastPage} -} % Configura el encabezado derecho
 
-\usepackage{csquotes}
-\DeclareUnicodeCharacter{0301}{\'{e}} 
-\usepackage[style=iso-authoryear]{biblatex}
-\addbibresource{lib/bibliography.bib}
+% Asegúrate de que el estilo de página 'plain' también use el mismo encabezado
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyhead[R]{- \thepage\ de \pageref{LastPage} -}
+}
+\renewcommand{\headrulewidth}{0pt}
 \usepackage{appendix}
 \usepackage{acronym}
 \usepackage{mdframed}
 \usepackage{lipsum}
+% \usepackage{showframe}
 \author{Juan Benito Quintana Arone}
 \title{"Tesis 2024"}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 \frontmatter
     \input{lib/0.0.intro/0.0.carat.tex}
@@ -134,7 +145,6 @@ version={4.0},
 	\listoffigures
 	\newpage
     \input{lib/0.0.intro/0.5.sig_acronym.tex}
-
 \mainmatter     
     \input{lib/0.0.intro/0.6.intro.tex}
     \input{lib/0.0.intro/0.7.datos_generales.tex}
@@ -147,12 +157,8 @@ version={4.0},
     \input{lib/4.0.chapter/metodologia.tex}
     % \input{lib/5.0.chapter/admin_project.tex}
     \input{lib/6.0.chapter/result_disc.tex}
-    \input{lib/7.0.chapter/conclu_recomen.tex} 
-    
-Un documento \ac{pdf} es comúnmente usado para compartir información en la web. Además, algunos documentos pueden ser escritos en \ac{html} para ser visualizados en navegadores web.
-\cite{Einstein1905}
+    \input{lib/7.0.chapter/conclu_recomen.tex}
 \backmatter
-    \appendix
-    \input{lib/8.0.chapter/anex.tex}
-    \printbibliography
+
+\lipsum[1-8]
 \end{document}

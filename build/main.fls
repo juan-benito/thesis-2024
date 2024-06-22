@@ -435,6 +435,10 @@ INPUT ./lib/7.0.chapter/conclu_recomen.tex
 INPUT lib/7.0.chapter/conclu_recomen.tex
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT c:/texlive/2024/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+INPUT c:/texlive/2024/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+INPUT c:/texlive/2024/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
 INPUT c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 INPUT c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 INPUT c:/texlive/2024/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
@@ -447,6 +451,7 @@ INPUT build/main.out
 INPUT build/main.run.xml
 OUTPUT build/main.run.xml
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb
+INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmb.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmr.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/newtx/ztmri.pfb

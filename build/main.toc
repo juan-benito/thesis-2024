@@ -1,18 +1,80 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {chapter}{\numberline {I}PLANTEAMIENTO DEL PROBLEMA}{5}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Descripción del problema}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Enunciado del problema}{5}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Problema general}{5}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Problemas específicos}{5}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Justificación de la investigación}{5}{section.1.3}%
-\contentsline {chapter}{\numberline {II}OBJETIVOS E HIPÓTESIS}{6}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Objetivos de la investigación}{6}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Objetivo general}{6}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Objetivos específicos}{6}{subsection.2.1.2}%
-\contentsline {section}{\numberline {2.2}Hipótesis de la investigación}{6}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Hipótesis general}{6}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Hipótesis específicas}{6}{subsection.2.2.2}%
-\contentsline {section}{\numberline {2.3}Operacionalización de variables}{6}{section.2.3}%
+\contentsline {section}{\numberline {1.2}Enunciado del problema}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Problema general}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Problemas específicos}{7}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Justificación de la investigación}{7}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Ubicación y contextualización}{7}{section.1.4}%
+\contentsline {chapter}{\numberline {II}OBJETIVOS E HIPÓTESIS}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Objetivos de la investigación}{9}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Objetivo general}{9}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Objetivos específicos}{9}{subsection.2.1.2}%
+\contentsline {section}{\numberline {2.2}Hipótesis de la investigación}{9}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Hipótesis general}{9}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Hipótesis específicas}{9}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Operacionalización de variables}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Operacionalización de variables}{10}{section.2.4}%
+\contentsline {chapter}{\numberline {III}MARCO TEÓRICO REFERENCIAL}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Antecedentes}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Marco teórico}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Marco conceptual}{15}{section.3.3}%
+\contentsline {chapter}{\numberline {IV}METODOLOGÍA}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Tipo y nivel de investigación}{16}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Tipo de la investigación}{16}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Nivel de la investigación}{16}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Diseño de la investigación}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Descripción ética de la investigación}{18}{section.4.3}%
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 

@@ -2382,7 +2382,38 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">lib/bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Einstein1905</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">France242021</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Ertuerk2022</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Liu2023</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Ampil2010</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Milo2023</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">UGRD2010</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">IGP2019</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">INDC2014</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Angulo2024</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Leon2024</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">JimenezRios2023</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Wang2023</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Romanazzi2023</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">LopezP.2020</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">TorresMoreno2022</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">AmaguayBermeo2022</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">OteroMonteza2022</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">QuirozHuaraya2021</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">CerveraTimana2023</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">CENEPRED2014</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">Zacarias2020</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">SanchezCarlessi2015</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">Tamayo2004</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">RiosRamirez2017</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">HernandezSampieri2014</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">RiosRamirez2017</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">Zacarias2020</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">HernandezSampieri2014</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">NaupasPaitan2014</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">AbreuSuarez2017</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">IOS2021</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">VRI2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

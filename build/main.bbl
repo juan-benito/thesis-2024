@@ -19,40 +19,1190 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
-    \entry{Einstein1905}{article}{}
+    \entry{AbreuSuarez2017}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3ebf53e52a3ce84f0ffb8553200a6a63}{%
-           family={Einstein},
-           familyi={E\bibinitperiod},
-           given={Albert},
-           giveni={A\bibinitperiod},
+        {{un=0,uniquepart=base,hash=5139af7478dead0fa8d16aa3d1917022}{%
+           family={Abreu\bibnamedelima Suarez},
+           familyi={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Alirio\bibnamedelima José},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Wiley Online Library}%
+        {INDTEC, C.A.}%
       }
-      \strng{namehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{fullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{bibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{authorbibnamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{authornamehash}{3ebf53e52a3ce84f0ffb8553200a6a63}
-      \strng{authorfullhash}{3ebf53e52a3ce84f0ffb8553200a6a63}
+      \strng{namehash}{5139af7478dead0fa8d16aa3d1917022}
+      \strng{fullhash}{5139af7478dead0fa8d16aa3d1917022}
+      \strng{bibnamehash}{5139af7478dead0fa8d16aa3d1917022}
+      \strng{authorbibnamehash}{5139af7478dead0fa8d16aa3d1917022}
+      \strng{authornamehash}{5139af7478dead0fa8d16aa3d1917022}
+      \strng{authorfullhash}{5139af7478dead0fa8d16aa3d1917022}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2542-2987}
+      \field{journaltitle}{Revista Scientific}
+      \field{month}{5}
+      \field{number}{4}
+      \field{title}{{L}a Ética en la {I}nvestigación {E}ducativa}
+      \field{volume}{2}
+      \field{year}{2017}
+      \field{pages}{338\bibrangedash 350}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.29394/scientific.issn.2542-2987.2017.2.4.19.338-350
+      \endverb
+    \endentry
+    \entry{AmaguayBermeo2022}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2948cfd8245726e6cb9d428a4b7e1c17}{%
+           family={Amaguay\bibnamedelima Bermeo},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Liliana\bibnamedelima Estefania},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidad Politécnica Saleciana Ecuador}%
+      }
+      \strng{namehash}{2948cfd8245726e6cb9d428a4b7e1c17}
+      \strng{fullhash}{2948cfd8245726e6cb9d428a4b7e1c17}
+      \strng{bibnamehash}{2948cfd8245726e6cb9d428a4b7e1c17}
+      \strng{authorbibnamehash}{2948cfd8245726e6cb9d428a4b7e1c17}
+      \strng{authornamehash}{2948cfd8245726e6cb9d428a4b7e1c17}
+      \strng{authorfullhash}{2948cfd8245726e6cb9d428a4b7e1c17}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Evaluación y reforzamiento estructural, incorporando mampostería enchapada y alternativa para el mejoramiento de suelo o refuerzo de cimentación de una edificación que presenta asentamientos diferenciales}
+      \field{type}{{B.S.} thesis}
+      \field{year}{2022}
+    \endentry
+    \entry{Ampil2010}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d484d493e4fcc4513f630f4ede623a82}{%
+           family={Ampil},
+           familyi={A\bibinitperiod},
+           given={Mési},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Cruz Roja Española}%
+      }
+      \strng{namehash}{d484d493e4fcc4513f630f4ede623a82}
+      \strng{fullhash}{d484d493e4fcc4513f630f4ede623a82}
+      \strng{bibnamehash}{d484d493e4fcc4513f630f4ede623a82}
+      \strng{authorbibnamehash}{d484d493e4fcc4513f630f4ede623a82}
+      \strng{authornamehash}{d484d493e4fcc4513f630f4ede623a82}
+      \strng{authorfullhash}{d484d493e4fcc4513f630f4ede623a82}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{{I}nforme de situación. {P}lan de acción terremoto en haití. {A}gosto de 2010}
+      \field{type}{techreport}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://www.cruzroja.es/pls/portal30/docs/PAGE/CANCRE/COPY_OF_TERREMOTOHAITI66/COPY_OF_RESPUESTACRE/HAIT�_INFORME DE SITUACI�N_AGOSTO 2010.PDF
+      \endverb
+      \verb{url}
+      \verb https://www.cruzroja.es/pls/portal30/docs/PAGE/CANCRE/COPY_OF_TERREMOTOHAITI66/COPY_OF_RESPUESTACRE/HAIT%EF%BF%BD_INFORME%20DE%20SITUACI%EF%BF%BDN_AGOSTO%202010.PDF
+      \endverb
+    \endentry
+    \entry{Angulo2024}{periodical}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=19821132b3f0628b6093ba91381cad5a}{%
+           family={Angulo},
+           familyi={A\bibinitperiod},
+           given={Jazmine},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {spanish}%
+      }
+      \list{organization}{1}{%
+        {Infobae}%
+      }
+      \strng{namehash}{19821132b3f0628b6093ba91381cad5a}
+      \strng{fullhash}{19821132b3f0628b6093ba91381cad5a}
+      \strng{bibnamehash}{19821132b3f0628b6093ba91381cad5a}
+      \strng{editorbibnamehash}{19821132b3f0628b6093ba91381cad5a}
+      \strng{editornamehash}{19821132b3f0628b6093ba91381cad5a}
+      \strng{editorfullhash}{19821132b3f0628b6093ba91381cad5a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{A 17 años del terrible terremoto en {P}isco, las cicatrices que dejó este sismo en la zona centro-sur del {P}erú}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.infobae.com/peru/2023/08/15/a-16-anos-del-terrible-terremoto-en-pisco-las-cicatrices-que-dejo-este-sismo-en-la-zona-centro-sur-del-peru/
+      \endverb
+      \verb{url}
+      \verb https://www.infobae.com/peru/2023/08/15/a-16-anos-del-terrible-terremoto-en-pisco-las-cicatrices-que-dejo-este-sismo-en-la-zona-centro-sur-del-peru/
+      \endverb
+    \endentry
+    \entry{CENEPRED2014}{manual}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=69d20e46c5db372298fd719702f8d752}{%
+           family={CENEPRED},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Av. Del Parque Norte N° 313 - 319. San Isidro - Lima - Perú}%
+      }
+      \list{organization}{1}{%
+        {Centro Nacional de Estimación Prevención y Reducción del riesgo de Desastres}%
+      }
+      \strng{namehash}{69d20e46c5db372298fd719702f8d752}
+      \strng{fullhash}{69d20e46c5db372298fd719702f8d752}
+      \strng{bibnamehash}{69d20e46c5db372298fd719702f8d752}
+      \strng{authorbibnamehash}{69d20e46c5db372298fd719702f8d752}
+      \strng{authornamehash}{69d20e46c5db372298fd719702f8d752}
+      \strng{authorfullhash}{69d20e46c5db372298fd719702f8d752}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{II}
+      \field{month}{3}
+      \field{title}{Manual para la evaluación de riesgos originados por fenómenos naturales}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://www.cenepred.gob.pe/
+      \endverb
+      \verb{url}
+      \verb http://www.cenepred.gob.pe/
+      \endverb
+    \endentry
+    \entry{CerveraTimana2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8f2ca04db2e3ef0f960281f925541b52}{%
+           family={Cervera\bibnamedelima Timana},
+           familyi={C\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Oscar\bibnamedelima Luis},
+           giveni={O\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Católica Santo Toribio de Mogrovejo}%
+      }
+      \strng{namehash}{8f2ca04db2e3ef0f960281f925541b52}
+      \strng{fullhash}{8f2ca04db2e3ef0f960281f925541b52}
+      \strng{bibnamehash}{8f2ca04db2e3ef0f960281f925541b52}
+      \strng{authorbibnamehash}{8f2ca04db2e3ef0f960281f925541b52}
+      \strng{authornamehash}{8f2ca04db2e3ef0f960281f925541b52}
+      \strng{authorfullhash}{8f2ca04db2e3ef0f960281f925541b52}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{E}valuación de la vulnerabilidad sísmica en las edificaciones de la zona sur-este del distrito de {L}ambayeque}
+      \field{year}{2023}
+    \endentry
+    \entry{Ertuerk2022}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=187d791bc5e4c3c9b52e20188575beb0}{%
+           family={Ertürk},
+           familyi={E\bibinitperiod},
+           given={Esin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f2992858d786e6d26298e6b0ce39c07}{%
+           family={Aykanat},
+           familyi={A\bibinitperiod},
+           given={Batuhan},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9f0460158ac823d123f52cb0e6e217a}{%
+           family={Altunışık},
+           familyi={A\bibinitperiod},
+           given={Ahmet\bibnamedelima Can},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7518e876cfe40d6e54db32bada09268}{%
+           family={Arslan},
+           familyi={A\bibinitperiod},
+           given={Mehmet\bibnamedelima Emin},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Golden Light Publishing}%
+      }
+      \strng{namehash}{eb3ca91b4b6bb85206672a97dc1dd12b}
+      \strng{fullhash}{28765a161a7910d9fc83e1196d542274}
+      \strng{bibnamehash}{28765a161a7910d9fc83e1196d542274}
+      \strng{authorbibnamehash}{28765a161a7910d9fc83e1196d542274}
+      \strng{authornamehash}{eb3ca91b4b6bb85206672a97dc1dd12b}
+      \strng{authorfullhash}{28765a161a7910d9fc83e1196d542274}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Annalen der Physik}
-      \field{number}{10}
-      \field{title}{{Z}ur {E}lektrodynamik bewegter {K}örper}
-      \field{volume}{322}
-      \field{year}{1905}
-      \field{pages}{891\bibrangedash 921}
-      \range{pages}{31}
+      \field{issn}{2630-5763}
+      \field{journaltitle}{Journal of Structural Engineering and Applied Mechanics}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Seismic damage assessment based on site observation following the Düzce (Gölyaka) earthquake (Mw = 5.9, November 23, 2022)}
+      \field{volume}{5}
+      \field{year}{2022}
       \verb{doi}
-      \verb 10.1002/andp.19053221004
+      \verb 10.31462/jseam.2022.04197221
       \endverb
+    \endentry
+    \entry{France242021}{periodical}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=4871dc81352a90e36ac59ff887079f03}{%
+           family={France24},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {spanish}%
+      }
+      \strng{namehash}{4871dc81352a90e36ac59ff887079f03}
+      \strng{fullhash}{4871dc81352a90e36ac59ff887079f03}
+      \strng{bibnamehash}{4871dc81352a90e36ac59ff887079f03}
+      \strng{editorbibnamehash}{4871dc81352a90e36ac59ff887079f03}
+      \strng{editornamehash}{4871dc81352a90e36ac59ff887079f03}
+      \strng{editorfullhash}{4871dc81352a90e36ac59ff887079f03}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{{T}erremotos en {A}fganistán, con más de 2.000 muertos, entre los más letales de ese país desde 1998}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.france24.com/es/asia-pacífico/20231008-terremotos-en-afganistán-con-más-de-2-000-muertos-entre-los-más-letales-de-ese-país-desde-1998
+      \endverb
+      \verb{url}
+      \verb https://www.france24.com/es/asia-pac%C3%ADfico/20231008-terremotos-en-afganist%C3%A1n-con-m%C3%A1s-de-2-000-muertos-entre-los-m%C3%A1s-letales-de-ese-pa%C3%ADs-desde-1998
+      \endverb
+    \endentry
+    \entry{HernandezSampieri2014}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=82531f0c5173ef965e84d101f98cbf0a}{%
+           family={Hernández\bibnamedelima Sampieri},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cda946b44fb9851bceae7fa35c71abde}{%
+           family={Fernández\bibnamedelima Collado},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e67f16b384bc1fe62a43f4d1073ebb44}{%
+           family={Baptista\bibnamedelima Lucio},
+           familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Mar{ía}\bibnamedelimb del\bibnamedelima Pilar},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d069c3ad131c3b7c042962a839303e04}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Mc\bibnamedelima Graw},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Prolongación Paseo de la Reforma 1015, Torre APiso 17, Colonia Desarrollo Santa Fe,Delegación Álvaro Obregón}%
+      }
+      \list{publisher}{1}{%
+        {McGraw Hill Education}%
+      }
+      \strng{namehash}{7c7c2f335ff7edc16815d4abaab9b7e7}
+      \strng{fullhash}{72b254a247d6eeab41104dbf1bc2d335}
+      \strng{bibnamehash}{72b254a247d6eeab41104dbf1bc2d335}
+      \strng{authorbibnamehash}{72b254a247d6eeab41104dbf1bc2d335}
+      \strng{authornamehash}{7c7c2f335ff7edc16815d4abaab9b7e7}
+      \strng{authorfullhash}{72b254a247d6eeab41104dbf1bc2d335}
+      \strng{editorbibnamehash}{d069c3ad131c3b7c042962a839303e04}
+      \strng{editornamehash}{d069c3ad131c3b7c042962a839303e04}
+      \strng{editorfullhash}{d069c3ad131c3b7c042962a839303e04}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{VI}
+      \field{isbn}{9781456223960}
+      \field{month}{4}
+      \field{title}{Metodología de la investigación. - 6. edición}
+      \field{year}{2014}
+      \field{pages}{600}
+      \range{pages}{1}
+      \verb{eprint}
+      \verb McGRAW-HILL / INTERAMERICANA EDITORES, S.A. DE C.V
+      \endverb
+    \endentry
+    \entry{IGP2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=31b720ffb80e801da6163343a69667fc}{%
+           family={{Instituto Geofísico del Perú}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{31b720ffb80e801da6163343a69667fc}
+      \strng{fullhash}{31b720ffb80e801da6163343a69667fc}
+      \strng{bibnamehash}{31b720ffb80e801da6163343a69667fc}
+      \strng{authorbibnamehash}{31b720ffb80e801da6163343a69667fc}
+      \strng{authornamehash}{31b720ffb80e801da6163343a69667fc}
+      \strng{authorfullhash}{31b720ffb80e801da6163343a69667fc}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online}
+      \field{month}{10}
+      \field{title}{{I}nstituto {G}eofísico del {P}erú: {S}e cumplen 45 años del último terremoto que afectó {L}ima el 03 de octubre de 1974}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.gob.pe/institucion/igp/noticias/73974-instituto-geofisico-del-peru-se-cumplen-45-anos-del-ultimo-terremoto-que-afecto-lima-el-03-de-octubre-de-1974
+      \endverb
+      \verb{url}
+      \verb https://www.gob.pe/institucion/igp/noticias/73974-instituto-geofisico-del-peru-se-cumplen-45-anos-del-ultimo-terremoto-que-afecto-lima-el-03-de-octubre-de-1974
+      \endverb
+    \endentry
+    \entry{INDC2014}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=346e386a3581cdada322573fb57170d0}{%
+           family={{Instituto Nacional de Defensa Civil}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{346e386a3581cdada322573fb57170d0}
+      \strng{fullhash}{346e386a3581cdada322573fb57170d0}
+      \strng{bibnamehash}{346e386a3581cdada322573fb57170d0}
+      \strng{authorbibnamehash}{346e386a3581cdada322573fb57170d0}
+      \strng{authornamehash}{346e386a3581cdada322573fb57170d0}
+      \strng{authorfullhash}{346e386a3581cdada322573fb57170d0}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online}
+      \field{month}{9}
+      \field{title}{Informe 04-{S}ismo en {P}aruro-{C}usco}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb http://bvpad.indeci.gob.pe/doc/pdf/esp/doc2648/doc2648-contenido.pdf
+      \endverb
+      \verb{url}
+      \verb http://bvpad.indeci.gob.pe/doc/pdf/esp/doc2648/doc2648-contenido.pdf
+      \endverb
+    \endentry
+    \entry{IOS2021}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7058e4bd76f877c52b621c942b30613c}{%
+           family={{International Organization for Standardization}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Switzerland, CH-1214 Vernier, Geneva}%
+      }
+      \list{organization}{1}{%
+        {Non-Governmental Organization}%
+      }
+      \strng{namehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{fullhash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{bibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorbibnamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authornamehash}{7058e4bd76f877c52b621c942b30613c}
+      \strng{authorfullhash}{7058e4bd76f877c52b621c942b30613c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online}
+      \field{number}{690}
+      \field{title}{{ISO/IEC} {D}irectives, part 2 {P}rinciples and rules for the structure and drafting of {ISO} and {IEC} documents}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.iso.org/sites/directives/current/part2/index.xhtml
+      \endverb
+      \verb{url}
+      \verb https://www.iso.org/sites/directives/current/part2/index.xhtml
+      \endverb
+    \endentry
+    \entry{JimenezRios2023}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=238ec94cdaade572f8a3dc971ba01bd8}{%
+           family={Jiménez\bibnamedelima Rios},
+           familyi={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{238ec94cdaade572f8a3dc971ba01bd8}
+      \strng{fullhash}{238ec94cdaade572f8a3dc971ba01bd8}
+      \strng{bibnamehash}{238ec94cdaade572f8a3dc971ba01bd8}
+      \strng{authorbibnamehash}{238ec94cdaade572f8a3dc971ba01bd8}
+      \strng{authornamehash}{238ec94cdaade572f8a3dc971ba01bd8}
+      \strng{authorfullhash}{238ec94cdaade572f8a3dc971ba01bd8}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{month}{8}
+      \field{number}{15}
+      \field{title}{Learning from the {P}ast: {P}arametric {A}nalysis of {C}ob {W}alls}
+      \field{volume}{13}
+      \field{year}{2023}
+      \field{pages}{9045}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/app13159045
+      \endverb
+    \endentry
+    \entry{Leon2024}{periodical}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=ca4f4c4707eef72299f529c21b9d521f}{%
+           family={León},
+           familyi={L\bibinitperiod},
+           given={Valeri},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {spanish}%
+      }
+      \list{organization}{1}{%
+        {Infobae}%
+      }
+      \strng{namehash}{ca4f4c4707eef72299f529c21b9d521f}
+      \strng{fullhash}{ca4f4c4707eef72299f529c21b9d521f}
+      \strng{bibnamehash}{ca4f4c4707eef72299f529c21b9d521f}
+      \strng{editorbibnamehash}{ca4f4c4707eef72299f529c21b9d521f}
+      \strng{editornamehash}{ca4f4c4707eef72299f529c21b9d521f}
+      \strng{editorfullhash}{ca4f4c4707eef72299f529c21b9d521f}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Sismos en {A}requipa: luego del temblor de magnitud 7.0 se registran más de 20 réplicas en {C}aravelí}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.infobae.com/peru/2024/06/28/temblor-de-magnitud-7-se-sintio-en-lima-epicentro-fue-en-arequipa/
+      \endverb
+      \verb{url}
+      \verb https://www.infobae.com/peru/2024/06/28/temblor-de-magnitud-7-se-sintio-en-lima-epicentro-fue-en-arequipa/
+      \endverb
+    \endentry
+    \entry{Liu2023}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=8faea88d630903b28667fa23564eee85}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Yaohui},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2796e06afbb201b2cf70dcd7d0d589b6}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xinyu},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2143bc02c507ac4bdec4a693f5589091}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Wenyi},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dea309c9966618b69b003390be28d790}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7dcf47b56fc2673e72f25bf5f3f56e49}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab8518c1d5a7844151ef3d473e7a140b}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1b01280ea935788788e05bccc0a3d2a}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Benyong},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f72448b448f784a30f7d333a8eee90be}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4b9a462bfa124d0263f3fa7c9251241}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Lutz},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Informa UK Limited}%
+      }
+      \strng{namehash}{e680a20e1486c319176a8aaee785fa79}
+      \strng{fullhash}{577a9d25d65cf53a9d5876cafd8eac05}
+      \strng{bibnamehash}{577a9d25d65cf53a9d5876cafd8eac05}
+      \strng{authorbibnamehash}{577a9d25d65cf53a9d5876cafd8eac05}
+      \strng{authornamehash}{e680a20e1486c319176a8aaee785fa79}
+      \strng{authorfullhash}{577a9d25d65cf53a9d5876cafd8eac05}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1947-5713}
+      \field{journaltitle}{Geomatics, Natural Hazards and Risk}
+      \field{month}{3}
+      \field{number}{1}
+      \field{title}{{S}eismic vulnerability and risk assessment at the urban scale using support vector machine and {GIS}cience technology: a case study of the {L}ixia {D}istrict in {J}inan {C}ity, {C}hina}
+      \field{volume}{14}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1080/19475705.2023.2173663
+      \endverb
+    \endentry
+    \entry{LopezP.2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=29e450b57d4b2833111ea6f88c954104}{%
+           family={López\bibnamedelima P.},
+           familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3de2537a3c56694188d6219bd1c3cd09}{%
+           family={Ruiz},
+           familyi={R\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac6db47fb5b54f73a10a51256473ccc9}{%
+           family={Jerez},
+           familyi={J\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b788beae7f3d44c234a6f77ad6c4aafd}{%
+           family={Aguilar},
+           familyi={A\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbb65a1c4442a4ef13dfde85a312bfe5}{%
+           family={Torres},
+           familyi={T\bibinitperiod},
+           given={Juan\bibnamedelima F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11372e5c4c9febe8fecc774c9540d47f}{%
+           family={Alvarado},
+           familyi={A\bibinitperiod},
+           given={Yezid\bibnamedelima A.},
+           giveni={Y\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Editorial CSIC}%
+      }
+      \strng{namehash}{daa90b216e1c057664a353b56ee9406a}
+      \strng{fullhash}{1a92cb72d17acc97795ed138ec8459aa}
+      \strng{bibnamehash}{1a92cb72d17acc97795ed138ec8459aa}
+      \strng{authorbibnamehash}{1a92cb72d17acc97795ed138ec8459aa}
+      \strng{authornamehash}{daa90b216e1c057664a353b56ee9406a}
+      \strng{authorfullhash}{1a92cb72d17acc97795ed138ec8459aa}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0020-0883}
+      \field{journaltitle}{Informes de la Construcción}
+      \field{month}{9}
+      \field{number}{559}
+      \field{title}{Comportamiento sísmico de edificaciones de tapia pisada reforzadas con marcos de madera y viga de coronación en concreto}
+      \field{volume}{72}
+      \field{year}{2020}
+      \field{pages}{347}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3989/ic.70914
+      \endverb
+    \endentry
+    \entry{Milo2023}{periodical}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=50a950f6decdc063178db899396c4d71}{%
+           family={Milo},
+           familyi={M\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {spanish}%
+      }
+      \list{organization}{1}{%
+        {National Geographic}%
+      }
+      \strng{namehash}{50a950f6decdc063178db899396c4d71}
+      \strng{fullhash}{50a950f6decdc063178db899396c4d71}
+      \strng{bibnamehash}{50a950f6decdc063178db899396c4d71}
+      \strng{editorbibnamehash}{50a950f6decdc063178db899396c4d71}
+      \strng{editornamehash}{50a950f6decdc063178db899396c4d71}
+      \strng{editorfullhash}{50a950f6decdc063178db899396c4d71}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{{T}erremoto de 1985, la catástrofe que cambió el rostro de {M}éxico}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ngenespanol.com/el-mundo/terremoto-de-1985-la-catastrofe-que-cambio-el-rostro-de-mexico/
+      \endverb
+      \verb{url}
+      \verb https://www.ngenespanol.com/el-mundo/terremoto-de-1985-la-catastrofe-que-cambio-el-rostro-de-mexico/
+      \endverb
+    \endentry
+    \entry{NaupasPaitan2014}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=bb599c2b65a669ea07de96d391d00089}{%
+           family={Ñaupas\bibnamedelima Paitán},
+           familyi={Ñ\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Humberto},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3517bee4a055dfa1bde7df1eac9a9c77}{%
+           family={Mejía\bibnamedelima Mejía},
+           familyi={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Elias},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14929db1f1a3a0f16bf370f8697753ce}{%
+           family={Novoa\bibnamedelima Ramírez},
+           familyi={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Eliana},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35ddc4c0497e6ecfc926ec6e157dd6c1}{%
+           family={Villagomez\bibnamedelima Paucar},
+           familyi={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bogotá, Colombia}%
+      }
+      \list{publisher}{1}{%
+        {Ediciones de la U}%
+      }
+      \strng{namehash}{500a650c9f4c5dbf1dbbf6083bf16dd2}
+      \strng{fullhash}{5a47756c75584411c5270fa4ebdd502a}
+      \strng{bibnamehash}{5a47756c75584411c5270fa4ebdd502a}
+      \strng{authorbibnamehash}{5a47756c75584411c5270fa4ebdd502a}
+      \strng{authornamehash}{500a650c9f4c5dbf1dbbf6083bf16dd2}
+      \strng{authorfullhash}{5a47756c75584411c5270fa4ebdd502a}
+      \field{sortinit}{Ñ}
+      \field{sortinithash}{9fd251261e8a0a19d1a98d71773b5b5e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{IV}
+      \field{isbn}{9789587621884}
+      \field{month}{4}
+      \field{title}{Metodología de la investigación : cuantitativa, cualitativa y redacción de la tesis - 4. ed.}
+      \field{year}{2014}
+    \endentry
+    \entry{OteroMonteza2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9b5b0683bf39a73f09c4e6b4f7b37c55}{%
+           family={Otero\bibnamedelima Monteza},
+           familyi={O\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Danty\bibnamedelima Alexander},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=537f7a92dd4cdb953ba84d91c86732e9}{%
+           family={Díaz\bibnamedelima Figueroa},
+           familyi={D\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Miguel\bibnamedelima Augusto},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Nacional de Ingenieria}%
+      }
+      \strng{namehash}{aecdd148aa1c381ee809063aabb37dae}
+      \strng{fullhash}{91cdb22148a87201f498e5fc401df406}
+      \strng{bibnamehash}{91cdb22148a87201f498e5fc401df406}
+      \strng{authorbibnamehash}{91cdb22148a87201f498e5fc401df406}
+      \strng{authornamehash}{aecdd148aa1c381ee809063aabb37dae}
+      \strng{authorfullhash}{91cdb22148a87201f498e5fc401df406}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0375-7765}
+      \field{journaltitle}{TECNIA}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Influence of the aspect ratio on seismic performance of adobe buildings}
+      \field{volume}{32}
+      \field{year}{2022}
+      \field{pages}{59\bibrangedash 75}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.21754/tecnia.v32i2.1413
+      \endverb
+    \endentry
+    \entry{QuirozHuaraya2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=79f6ff8be87d180a234d0ab0ef4c7f64}{%
+           family={Quiroz\bibnamedelima Huaraya},
+           familyi={Q\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Hugo\bibnamedelima Aarom},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74fa9ba519566338536916f33a4d6639}{%
+           family={Tena\bibnamedelima Gutiérrez},
+           familyi={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={César\bibnamedelima Augusto},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Peruana de Ciencias Aplicadas (UPC)}%
+      }
+      \strng{namehash}{25f90cec1e26e0e8c291851845996c0f}
+      \strng{fullhash}{1a7a098fcfde635cb4a033f310fc5638}
+      \strng{bibnamehash}{1a7a098fcfde635cb4a033f310fc5638}
+      \strng{authorbibnamehash}{1a7a098fcfde635cb4a033f310fc5638}
+      \strng{authornamehash}{25f90cec1e26e0e8c291851845996c0f}
+      \strng{authorfullhash}{1a7a098fcfde635cb4a033f310fc5638}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Propuesta de reforzamiento estructural de viviendas de adobe utilizando mallas de acero electrosoldadas en {H}uarangal-{C}arabayllo}
+      \field{year}{2021}
+    \endentry
+    \entry{RiosRamirez2017}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bb08cd8f05226e7c9c65f6012197e380}{%
+           family={Ríos\bibnamedelima Ramírez},
+           familyi={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Roger\bibnamedelima Ricardo},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=370cf81792c4aee8bd25b81bf79b8963}{%
+           family={Grupo\bibnamedelimb de\bibnamedelimb investigación\bibnamedelimb (SEJ\bibnamedelimb 309)\bibnamedelimb eumed.net\bibnamedelimb de\bibnamedelimb la\bibnamedelimb Universidadde\bibnamedelima Málaga},
+           familyi={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim 3\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={España},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Campus Universitario Teatinos Boulevar Louis Pasteur, 4 Málaga 29071, España}%
+      }
+      \strng{namehash}{bb08cd8f05226e7c9c65f6012197e380}
+      \strng{fullhash}{bb08cd8f05226e7c9c65f6012197e380}
+      \strng{bibnamehash}{bb08cd8f05226e7c9c65f6012197e380}
+      \strng{authorbibnamehash}{bb08cd8f05226e7c9c65f6012197e380}
+      \strng{authornamehash}{bb08cd8f05226e7c9c65f6012197e380}
+      \strng{authorfullhash}{bb08cd8f05226e7c9c65f6012197e380}
+      \strng{editorbibnamehash}{370cf81792c4aee8bd25b81bf79b8963}
+      \strng{editornamehash}{370cf81792c4aee8bd25b81bf79b8963}
+      \strng{editorfullhash}{370cf81792c4aee8bd25b81bf79b8963}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{I}
+      \field{isbn}{978-84-17211-23-3}
+      \field{month}{9}
+      \field{series}{Biblioteca Virtual de Derecho, Economía y Ciencias Sociales}
+      \field{title}{Metodología para la investigación y redacción}
+      \field{year}{2017}
+    \endentry
+    \entry{Romanazzi2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7fb34354d79ea768916ec59533a7bbdb}{%
+           family={Romanazzi},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=514e8874602b8c48676b45932f494e9b}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={D.V.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44d2aa83895641265e672587cdfb082f}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={R.A.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c3c060a04ca6c202efe19de5e61f126}{%
+           family={Barontini},
+           familyi={B\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{7f0e91d515f269e9c66b8c9d53e41e10}
+      \strng{fullhash}{2ef4cbdcf49289c051c684dcddcb9b25}
+      \strng{bibnamehash}{2ef4cbdcf49289c051c684dcddcb9b25}
+      \strng{authorbibnamehash}{2ef4cbdcf49289c051c684dcddcb9b25}
+      \strng{authornamehash}{7f0e91d515f269e9c66b8c9d53e41e10}
+      \strng{authorfullhash}{2ef4cbdcf49289c051c684dcddcb9b25}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0950-0618}
+      \field{journaltitle}{Construction and Building Materials}
+      \field{month}{12}
+      \field{title}{{E}ffectiveness of a {TRM} solution for rammed earth under in-plane cyclic loads}
+      \field{volume}{407}
+      \field{year}{2023}
+      \field{pages}{133551}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.conbuildmat.2023.133551
+      \endverb
+    \endentry
+    \entry{SanchezCarlessi2015}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0a010bac857b6c45f4b4a7915f7a2aaf}{%
+           family={Sánchez\bibnamedelima Carlessi},
+           familyi={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Hugo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49a79c39ced51a06afd688534d197693}{%
+           family={Reyes\bibnamedelima Meza},
+           familyi={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Lima- Perú}%
+      }
+      \list{publisher}{1}{%
+        {Business Support Anneth SRL}%
+      }
+      \strng{namehash}{c842979c3ef44bbd79397c078a445b94}
+      \strng{fullhash}{636ce223bac0777d1e50820f37e75c58}
+      \strng{bibnamehash}{636ce223bac0777d1e50820f37e75c58}
+      \strng{authorbibnamehash}{636ce223bac0777d1e50820f37e75c58}
+      \strng{authornamehash}{c842979c3ef44bbd79397c078a445b94}
+      \strng{authorfullhash}{636ce223bac0777d1e50820f37e75c58}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{V}
+      \field{isbn}{978-612-46842-2-7}
+      \field{month}{7}
+      \field{title}{Metodología y diseños en la investigación científíca}
+      \field{year}{2015}
+    \endentry
+    \entry{Tamayo2004}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=273c254c09687c1c9f774ec6d5369253}{%
+           family={Tamayo},
+           familyi={T\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Limusa}%
+      }
+      \strng{namehash}{273c254c09687c1c9f774ec6d5369253}
+      \strng{fullhash}{273c254c09687c1c9f774ec6d5369253}
+      \strng{bibnamehash}{273c254c09687c1c9f774ec6d5369253}
+      \strng{authorbibnamehash}{273c254c09687c1c9f774ec6d5369253}
+      \strng{authornamehash}{273c254c09687c1c9f774ec6d5369253}
+      \strng{authorfullhash}{273c254c09687c1c9f774ec6d5369253}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{IV}
+      \field{isbn}{9789681858728}
+      \field{title}{{E}l {P}roceso de la investigacion cientifica / {T}he {P}rocess of {S}cientific {I}nvestigation}
+      \field{year}{2004}
+      \field{pages}{440}
+      \range{pages}{1}
+    \endentry
+    \entry{TorresMoreno2022}{thesis}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1576033d67b64284bb0fd016f4ab677d}{%
+           family={Torres\bibnamedelima Moreno},
+           familyi={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Jeancarlos\bibnamedelima Andres},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac5da9083ea36f63aca01ba763fba892}{%
+           family={Quishpe\bibnamedelima Vimos},
+           familyi={Q\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Luis\bibnamedelima Vinicio},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Riobamba, Universidad Nacional de Chimborazo}%
+      }
+      \strng{namehash}{794b2f733d9fd435bdf7fd6c7a533577}
+      \strng{fullhash}{1c2fca1d1eda60a86e65e9dde34ea6be}
+      \strng{bibnamehash}{1c2fca1d1eda60a86e65e9dde34ea6be}
+      \strng{authorbibnamehash}{1c2fca1d1eda60a86e65e9dde34ea6be}
+      \strng{authornamehash}{794b2f733d9fd435bdf7fd6c7a533577}
+      \strng{authorfullhash}{1c2fca1d1eda60a86e65e9dde34ea6be}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Influencia de la resistencia a la compresión y módulo de elasticidad del adobe en el comportamiento estructural de viviendas patrimoniales}
+      \field{type}{{B.S.} thesis}
+      \field{year}{2022}
+    \endentry
+    \entry{UGRD2010}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=807ee8919848f54a40ba754faedd48c9}{%
+           family={{Unidad de Gestión de Riesgos y Desastres}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{807ee8919848f54a40ba754faedd48c9}
+      \strng{fullhash}{807ee8919848f54a40ba754faedd48c9}
+      \strng{bibnamehash}{807ee8919848f54a40ba754faedd48c9}
+      \strng{authorbibnamehash}{807ee8919848f54a40ba754faedd48c9}
+      \strng{authornamehash}{807ee8919848f54a40ba754faedd48c9}
+      \strng{authorfullhash}{807ee8919848f54a40ba754faedd48c9}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online}
+      \field{month}{2}
+      \field{title}{El terremoto de {C}hile de 2010}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://emergenciaydesastres.mineduc.cl/el-terremoto-de-chile-de-2010/
+      \endverb
+      \verb{url}
+      \verb https://emergenciaydesastres.mineduc.cl/el-terremoto-de-chile-de-2010/
+      \endverb
+    \endentry
+    \entry{VRI2018}{standard}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fea8453c75b9efa296d2d39b6b58711d}{%
+           family={{Vice Rectorado de Investigación}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {{U}niversidad Nacional Micaela Bastidas de Apurímac}%
+      }
+      \list{language}{1}{%
+        {spanish}%
+      }
+      \list{location}{1}{%
+        {Ciudad Universitaria, Tamburco}%
+      }
+      \list{organization}{1}{%
+        {Universidad Nacional Micaela Bastidas de Apurímac}%
+      }
+      \strng{namehash}{fea8453c75b9efa296d2d39b6b58711d}
+      \strng{fullhash}{fea8453c75b9efa296d2d39b6b58711d}
+      \strng{bibnamehash}{fea8453c75b9efa296d2d39b6b58711d}
+      \strng{authorbibnamehash}{fea8453c75b9efa296d2d39b6b58711d}
+      \strng{authornamehash}{fea8453c75b9efa296d2d39b6b58711d}
+      \strng{authorfullhash}{fea8453c75b9efa296d2d39b6b58711d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{093-010}
+      \field{title}{Código de ética para la investigación}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://vrin.unamba.edu.pe/reglamentos
+      \endverb
+      \verb{url}
+      \verb https://vrin.unamba.edu.pe/reglamentos
+      \endverb
+    \endentry
+    \entry{Wang2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ecbdeaec835537d95d1ebf3f676fb38}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Haoran},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3747ae6d9da80e7f7935d8b7c2d5de2d}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Kang},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f09fcbdead602c38f58d8642a262e89}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Songlin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=190f342026f3123d305a54a48b650c78}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Junlin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MDPI AG}%
+      }
+      \strng{namehash}{4d21a3489366f503f9b29de271bcf0ee}
+      \strng{fullhash}{82c0c3eb25657779a38f894bf2b4f3eb}
+      \strng{bibnamehash}{82c0c3eb25657779a38f894bf2b4f3eb}
+      \strng{authorbibnamehash}{82c0c3eb25657779a38f894bf2b4f3eb}
+      \strng{authornamehash}{4d21a3489366f503f9b29de271bcf0ee}
+      \strng{authorfullhash}{82c0c3eb25657779a38f894bf2b4f3eb}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2071-1050}
+      \field{journaltitle}{Sustainability}
+      \field{month}{5}
+      \field{number}{10}
+      \field{title}{Experimental {S}tudy on the {S}eismic {B}ehavior of a {M}odified {A}dobe-{B}rick-{M}asonry {C}omposite {W}all with a {W}ooden-{C}onstruction {C}enter {C}olumn}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{8360}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/su15108360
+      \endverb
+    \endentry
+    \entry{Zacarias2020}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ac8b4cb7b9eb78ff9e4d069b496daa7f}{%
+           family={Zacarías},
+           familyi={Z\bibinitperiod},
+           given={Héctor},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4707997eaf137617a7ba0c88d4710e11}{%
+           family={Supo},
+           familyi={S\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Independently Published}%
+      }
+      \strng{namehash}{cada507b2a02ba4ea4ad5d7b335177a5}
+      \strng{fullhash}{2bb311b7a73dd1c9e4c64e275bc2fccb}
+      \strng{bibnamehash}{2bb311b7a73dd1c9e4c64e275bc2fccb}
+      \strng{authorbibnamehash}{2bb311b7a73dd1c9e4c64e275bc2fccb}
+      \strng{authornamehash}{cada507b2a02ba4ea4ad5d7b335177a5}
+      \strng{authorfullhash}{2bb311b7a73dd1c9e4c64e275bc2fccb}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{III}
+      \field{isbn}{9798656825252}
+      \field{title}{{M}etodología de la {I}nvestigación {C}ientífica {P}ara las {C}iencias de la {S}alud y las {C}iencias {S}ociales}
+      \field{year}{2020}
     \endentry
   \enddatalist
 \endrefsection

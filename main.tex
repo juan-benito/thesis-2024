@@ -8,6 +8,17 @@
 \usepackage[spanish,mexico]{babel}
 \usepackage{graphicx}
 \graphicspath{{img/}}  % Incluir la ruta de la carpeta de imágenes
+\usepackage{caption}
+\usepackage{adjustbox}  % Rotar imagenes
+\usepackage{subcaption}  %Ajustar el ancho caption
+% Paquete necesario para redefinir los contadores
+\usepackage{chngcntr}
+
+% Redefinir el contador de figuras para que no incluya el número de capítulo
+\counterwithout{figure}{chapter}
+
+% Redefinir el contador de tablas para que no incluya el número de capítulo
+\counterwithout{table}{chapter}
 \usepackage{xcolor}
 \definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -45,7 +56,7 @@ version={4.0},
 \usepackage{setspace}
 \onehalfspacing % Espaciado 1.5
 
-\usepackage{newtxtext,newtxmath} % Paquete para usar Times New Roman
+\usepackage{mathptmx} % fuente
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -138,6 +149,9 @@ version={4.0},
 \usepackage{acronym}
 \usepackage{mdframed}
 \usepackage{lipsum}
+\usepackage{pdflscape}
+\usepackage{longtable}
+\usepackage{booktabs} % Para las líneas horizontales de alta calidad
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -174,7 +188,7 @@ version={4.0},
     \input{lib/6.0.chapter/result_disc.tex}
     \input{lib/7.0.chapter/conclu_recomen.tex}
 
-    Como el autor \cite[6]{Einstein1905}
+    Como el autor 
 \backmatter
     \printbibliography[title=BIBLIOGRAFÍA]
 	\appendix	
